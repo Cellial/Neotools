@@ -63,7 +63,7 @@
 ||*stamp_neo_alienvend.gif
 ||*stamp_skeith_orange.gif
 ||*stamp_neo_hotdog.gif
-||*stamp_neo_well.gif
+||stamp_neo_well.gif
 ||*stamp_neo_kauvara.gif
 ||*stamp_neo_shopwiz.gif
 ||*stamp_neo_book.gif
