@@ -4,7 +4,7 @@
 ! Expires: 7 days (update frequency)
 ! Homepage:
 !
-||*pteri_red_happy.gif
+||pteri_red_happy.gif
 ||*stamp_skeith_bank.gif
 ||*stamp_mys_fru.gif
 ||*stamp_skeith_robot.gif
